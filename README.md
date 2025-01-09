@@ -2,17 +2,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [TonttuPeli](https://github.com/taavibooos/Urli)
-- [HyvääMorjesta](https://github.com/taavibooos/Urli)
+- 
 
 
 <h2>Skills and Technologies</h2>
 
 Here are some of the skills and technologies I am currently learning and working with:
 
-- **Languages:** Python, JavaScript, HTML/CSS
-- **Tools:** Git, VS Code, GitHub
-- **Technologies:** Web Development, Data Analysis
+- **Languages:** 
+- **Tools:** 
+- **Technologies:** 
 
 
 
